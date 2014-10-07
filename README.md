@@ -1,7 +1,7 @@
-IC2E 2013 - Workshop on the Future of PaaS
+IC2E 2015 - Workshop on the Future of PaaS
 ==========================================
 
-This project will contain all items related to the IC2E 2013 workshop on the future of PaaS.
+This project will contain all items related to the IC2E 2015 workshop on the future of PaaS.
 
 We are making use of the wiki feature of Github to host the workshop's pages and workflow.  We'll see how that works out.
 
